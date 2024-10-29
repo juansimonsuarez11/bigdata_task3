@@ -1,0 +1,11 @@
+{
+  "partitions": [
+    {
+      "topic": "tarea3",
+      "partition": 0,
+      "offset": 5
+    }
+  ],
+  "version": 1
+}
+
